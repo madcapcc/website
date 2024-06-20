@@ -1,7 +1,7 @@
 +++
 title = 'Accueil'
 date = 2024-06-19T23:23:09+02:00
-draft = true
+draft = false
 +++
 
 {{% fullwidth %}}
