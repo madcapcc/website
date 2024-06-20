@@ -1,0 +1,7 @@
+{{- $attrs :=  "row g-0 p-0 align-items-center " }}
+{{ if .Get "grid" }}
+  {{- $attrs = printf "%s %s" $attrs "grid" }}
+{{- end }}
+<div class="{{ $attrs }}">
+  {{ .Inner }}
+</div>

@@ -1,0 +1,23 @@
+baseURL = 'https://madcap.cc/'
+enableEmoji = true
+languageCode = 'fr-fr'
+title = 'MadCap'
+
+sectionPagesMenu = 'main'
+# theme = 'madcap'
+
+[markup.goldmark.parser.attribute]
+block = true # default is false
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+homepage = '/accueil'
+
+[[menus.main]]
+name = 'Accueil'
+pageRef = '/'
+
+[[menus.main]]
+name = 'Organisateurs'
+pageRef = '/orga'

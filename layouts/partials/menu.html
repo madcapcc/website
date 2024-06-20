@@ -1,0 +1,61 @@
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+  <nav class="navbar fixed-top navbar-expand-lg madnav">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">
+        <img src="/madcap-rect-white.png" alt="Bootstrap" height="32" />
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        </div>
+      </div>
+    </div>
+  </nav>
+{{- end }}
+
+{{- define "partials/inline/menu/walk.html" }}
+  {{- $homepage := .Page.Site.GetPage .Page.Site.Params.homepage }}
+  {{- $page := .page }}
+  {{- range .menuEntries }}
+    {{- $attrs := dict "href" .URL "class" "nav-link" }}
+    {{- if or ($page.IsMenuCurrent .Menu .)  (and $page.IsHome ($homepage.IsMenuCurrent .Menu .)) }}
+      {{- $attrs = merge $attrs (dict "class" "nav-link active" "aria-current" "page") }}
+    {{- else if $page.HasMenuCurrent .Menu . }}
+      {{- $attrs = merge $attrs (dict "class" " nav-link ancestor" "aria-current" "true") }}
+    {{- end }}
+    {{- $name := .Name }}
+    {{- with .Identifier }}
+      {{- with T . }}
+        {{- $name = . }}
+      {{- end }}
+    {{- end }}
+    <a
+      {{- range $k, $v := $attrs }}
+        {{- with $v }}
+          {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+        {{- end }}
+      {{- end -}}
+      >{{ $name }}</a
+    >
+    {{- with .Children }}
+      {{/* <ul> */}}
+      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+      {{/* </ul> */}}
+    {{- end }}
+    {{/* </li> */}}
+  {{- end }}
+{{- end }}

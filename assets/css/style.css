@@ -1,0 +1,94 @@
+/* Overwrite bootstrap reset */
+p {
+  margin-bottom: 0 !important;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #922d50 !important;
+}
+
+* {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Navigation */
+.madnav {
+  backdrop-filter: invert(40%) blur(4px);
+}
+
+.madnav .nav-link {
+  color: white !important;
+}
+
+.madnav .nav-link.active {
+  font-weight: 800;
+}
+
+/* Posts */
+
+.full-width img {
+  width: 100%;
+  max-height: 100vh;
+  height: auto;
+  object-fit: cover;
+}
+
+.column {
+  box-sizing: border-box;
+}
+
+/* @media (min-width: 768px) { */
+.column>.padding {
+  margin: 10%;
+  text-align: center;
+}
+
+.column>.padding>.column-center {
+  margin: auto;
+}
+
+/* } */
+
+.column img {
+  max-width: 100%;
+  /* margin: auto; */
+  box-sizing: border-box;
+  /* height: auto; */
+  /* height: 100vh; */
+  max-height: 50vh;
+  object-fit: cover;
+  border-radius: 64px 0px;
+}
+
+.no-radius img {
+  border-radius: 0 !important;
+}
+
+.grid {
+  background-image: url('/grid.png');
+  background-size: cover;
+}
+
+.row p:has(a) {
+  text-align: center;
+}
+
+.row a:not([href^="mailto"]) {
+  background-color: #922d50;
+  border-radius: 16px;
+  padding: 24px 8px;
+  color: white !important;
+  font-weight: 600;
+  text-decoration: none !important;
+  margin: 16px 0;
+  display: inline-block;
+}
