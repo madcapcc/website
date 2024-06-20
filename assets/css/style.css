@@ -1,6 +1,10 @@
 /* Overwrite bootstrap reset */
-p {
+/* p {
   margin-bottom: 0 !important;
+} */
+
+.padding-navbar {
+  padding-top: 56px;
 }
 
 

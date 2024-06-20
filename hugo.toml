@@ -6,7 +6,8 @@ sectionPagesMenu = 'main'
 title = 'MadCap'
 
 [markup.goldmark.parser.attribute]
-block = true # default is false
+block = true
+title = true
 [markup.goldmark.renderer]
 unsafe = true
 
