@@ -2,3 +2,5 @@ public
 resources
 .frontmatter/
 .hugo_build.lock
+yarn.lock
+node_modules
