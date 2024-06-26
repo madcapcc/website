@@ -125,7 +125,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
-![Fonctionnalitées principales](/accueil/im-acc-005.JPG)
+![Fonctionnalitées principales](/accueil/im-acc-005.png)
 {{% /column %}}
 
 {{% column %}}
