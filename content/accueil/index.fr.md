@@ -144,7 +144,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 <!-- ######  Qui sommes nous ? noGRILL ###### ? -->
 
-{{% row  %}} <!-- ligne sans grille en fond —>
+{{% row  %}}
 {{% column %}}
 ## <div style=« text-align: left"> Qui sommes nous ? </div>
 
