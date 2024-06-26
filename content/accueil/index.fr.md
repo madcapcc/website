@@ -31,6 +31,9 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 
 &nbsp;
 
+<div style="text-align: justify"> MadCap est une solution clé en main de suivi en temps réel pour tes aventures à vélo. Elle se compose d’une application et d’un boitier GPS marchant de pair.
+Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en action : </div>
+
 [Accéder au Live Tracking](https://app.madcap.cc)
 {{% /column %}}
 {{% /row %}}
@@ -53,7 +56,6 @@ Partant du constat que nous partons rarement plusieurs jours à l’aventure ave
 L’application est gratuite et accessible à toutes et à tous.
 
 [Télécharger l’app iOS](https://app.madcap.cc)
-&nbsp;
 [Télécharger l’app Android](https://app.madcap.cc)
 
 
