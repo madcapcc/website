@@ -9,7 +9,7 @@ draft = false
 {{% /fullwidth %}}
 
 
-
+<!-- texte en commentaire -->
 
 {{% row grid=1  %}}
 {{% column %}}
@@ -46,7 +46,6 @@ L’application est gratuite et accessible à toutes et à tous.
 
 [Télécharger l’app Android](https://app.madcap.cc)
 
-Coucou hugo
 
 {{% /column %}}
 {{% /row %}}
