@@ -92,9 +92,38 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 
 
+
+
+<!-- ######  ligne Pour qui ? noGRILL  ###### ? -->
+
+{{% row  %}} <!-- ligne sans grille en fond -->
+{{% column %}}
+## <div style="text-align: left"> Pour qui ? </div>
+
+<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivi par leur proches. Pour celles et ceux au bureaux ou sur le canapé -plus communément appelés les Dotwatchers- souhaitant suivre l’évolution de leurs proches dans leur aventures. </div>
+
+&nbsp;
+
+[Télécharger l’app iOS](https://apps.apple.com/fr/app/madcap-cc/id6478298631)  
+[Télécharger l’app Android](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr)
+
+
+{{% /column %}}
+
+{{% column %}}
+![Notre application](/accueil/im-acc-002.JPG)
+{{% /column %}}
+
+{{% /row %}}
+
+
+
+
+
+
 <!-- ######  ligne Pour qui ? noGRILL ###### ? -->
 
-{{% row  %}} <!-- ligne sans grille en fond —>
+{{% row  %}}
 {{% column %}}
 ## <div style=« text-align: left"> Pour qui ? </div>
 
@@ -104,13 +133,10 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 <a href="/accueil/Infos boîtier GPS MadCap.pdf»> Je suis organisateur.ice  </a>   <!— Mettre le pif merged participant --> 
 <a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Téléchargement PDF --> 
-
-
 {{% /column %}}
 
 {{% column %}}
 ![Pour qui ?](/accueil/im-acc-004.JPG)
-Aubin Luarent / @compassgo
 {{% /column %}}
 {{% /row %}}
 
