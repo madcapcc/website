@@ -16,9 +16,11 @@ draft = false
 
 
 
-<!-- ligne MadCap ? -->
 
-{{% row grid=1  %}}
+
+<!-- ######  ligne MadCap  ###### ? -->
+
+{{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
 ![MadCap ?](/accueil/im-acc-001.png)
 {{% /column %}}
@@ -38,9 +40,11 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 
 
 
-<!-- ligne Notre application -->
 
-{{% row  %}}
+
+<!-- ######  ligne Notre application  ###### ? -->
+
+{{% row  %}} <!-- ligne sans grille en fond -->
 {{% column %}}
 ![Accueil](/accueil/im-acc-002.JPG)
 {{% /column %}}
@@ -57,5 +61,28 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 [Télécharger l’app Android](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr)
 
 
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+<!-- ######  Ligne Le boitier GPS (ou tracker)  ###### ? -->
+
+{{% row grid=1  %}} <!-- ligne avec grille en fond -->
+{{% column %}}
+![MadCap ?](/accueil/im-acc-003.png)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Le boitier GPS (ou tracker) </div>
+
+<div style="text-align: justify"> Il marche de pair avec l’application, c’est lui et non le téléphone qui enregistre ta position à intervalle régulier, puis transmet les informations à nos serveurs puis à l’application.
+Le système de suivi n’a donc aucunement besoin de ton téléphone pour fonctionner, il peut très bien être en mode avion ou éteint pour l’économie de batterie. L’application te sert à toi et tes proches à consulter les informations quand vous le souhaitez. </div>
+
+&nbsp;
+
+[Informations trackers](https://app.madcap.cc)
 {{% /column %}}
 {{% /row %}}
