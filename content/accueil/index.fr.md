@@ -23,7 +23,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-## MadCap ?
+<div style="text-align: left"> ## MadCap ? </div>
 &nbsp;
 
 <div style="text-align: justify"> MadCap est une solution clé en main de suivi en temps réel pour tes aventures à vélo. Elle se compose d’une application et d’un boitier GPS marchant de pair.
