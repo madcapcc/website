@@ -46,7 +46,7 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 
 {{% row  %}} <!-- ligne sans grille en fond -->
 {{% column %}}
-![Accueil](/accueil/im-acc-002.JPG)
+![Notre application](/accueil/im-acc-002.JPG)
 {{% /column %}}
 
 {{% column %}}
@@ -72,7 +72,7 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
-![MadCap ?](/accueil/im-acc-003.png)
+![Le boitier GPS](/accueil/im-acc-003.JPG)
 {{% /column %}}
 
 {{% column %}}
