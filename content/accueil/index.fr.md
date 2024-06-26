@@ -53,6 +53,8 @@ Partant du constat que nous partons rarement plusieurs jours à l’aventure ave
 L’application est gratuite et accessible à toutes et à tous.
 
 [Télécharger l’app iOS](https://app.madcap.cc)
+&nbsp;
+
 [Télécharger l’app Android](https://app.madcap.cc)
 
 
