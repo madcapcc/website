@@ -121,30 +121,6 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 
 
-<!-- ###### A VIRER ligne Pour qui ? noGRILL ###### ? -->
-
-{{% row  %}}
-{{% column %}}
-## <div style=« text-align: left"> Pour qui ? </div>
-
-<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivi par leur proches. Pour celles et ceux au bureaux ou sur le canapé -plus communément appelés les Dotwatchers- souhaitant suivre l’évolution de leurs proches dans leur aventures. </div>
-
-&nbsp;
-
-<a href="/accueil/Infos boîtier GPS MadCap.pdf»> Je suis organisateur.ice  </a>   <!— Mettre le pif merged participant --> 
-<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Téléchargement PDF --> 
-{{% /column %}}
-
-{{% column %}}
-![Pour qui ?](/accueil/im-acc-004.JPG)
-{{% /column %}}
-{{% /row %}}
-
-
-
-
-
-
 <!-- ######  Fonctionnalitées principales GRILLE ###### ? -->
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
