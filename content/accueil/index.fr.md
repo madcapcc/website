@@ -19,10 +19,9 @@ draft = false
 {{% column %}}
 ## MadCap ??
 &nbsp;
+
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 MadCap est une solution clé en main de suivi en temps réel pour tes aventures à vélo. Elle se compose d’une application et d’un boitier GPS marchant de pair.
 Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en action :
 
