@@ -26,7 +26,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Je suis organisateur </div>
 
-<div style="text-align: justify"> Si vous organisez un évènement à vélo et êtes en recherche d’une solution de suivi, vous êtes au bon endroit :) On essaie de vous donner ici les informations principales, mais rien ne vaut une prise de contact, vous pouvez nous écrire à hugo@madcap.cc pour qu’on étudie ensemble la meilleure façon de vous accompagner. </div>
+#### <div style="text-align: justify"> Si vous organisez un évènement à vélo et êtes en recherche d’une solution de suivi, vous êtes au bon endroit :) On essaie de vous donner ici les informations principales, mais rien ne vaut une prise de contact, vous pouvez nous écrire à hugo@madcap.cc pour qu’on étudie ensemble la meilleure façon de vous accompagner. </div>
 {{% /column %}}
 {{% /row %}}
 
