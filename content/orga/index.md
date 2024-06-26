@@ -95,3 +95,24 @@ draft = false
 
 
 
+
+
+
+
+<!-- ######  ligne Une mise en place assistée noGRILLE  ###### ? -->
+
+
+{{% row  %}}
+{{% column %}}
+## <div style="text-align: left"> Une mise en place simple et assistée pour vous, vos partiacipants.es et votre public. </div>
+
+<div style="text-align: justify"> Nous avons conçu un système permettant à tous les utilisateurs d'utiliser simplement notre système de suivi. Un système simple à mettre en place pour vous, simple à utiliser pour vos participants.es, et simple d'accès à votre public. </div>
+{{% /column %}}
+
+{{% column %}}
+![Une page dédiée](/orga/im-orga-004.jpg)
+{{% /column %}}
+{{% /row %}}
+
+
+
