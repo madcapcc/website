@@ -149,19 +149,11 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 ## <div style="text-align: left"> Qui sommes nous ? </div>
 
 <div style="text-align: justify"> Sam et Hugo :) On est à la fois participants (TCR, Three Peaks Bike Race, North Cap etc) et organisateurs d’évènements à deux roues (le Big fat Ride sur Paris), mais aussi développeurs et ingénieurs. On a développé le projet MadCap avec d’autres organisateurs d’ultra (course ou voyage), tous types de dotwatcheurs et de coureurs (l’avant comme l’arrière de la course) pour proposer un outil aux petits oignons pour tout le monde qui satisfasse enfin l'ensemble des utilisateurs, depuis leurs canapés ou derrière leurs  guidons. MadCap est notre création, nous en sommes les développeurs et allons la faire considérablement évoluer au fil du temps. Nous avons travaillé avec Victor Bouscavet, designer, ami, et ultra cycliste de renom pour designer ce beau projet. </div>
-
-&nbsp;
-
-<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis organisateur.ice  </a>  
-<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Mettre lien ou pdf -->
-
-
 {{% /column %}}
 
 {{% column %}}
-![Notre application](/accueil/im-acc-004.JPG)
+![Notre application](/accueil/im-acc-006.JPG)
 {{% /column %}}
-
 {{% /row %}}
 
 
