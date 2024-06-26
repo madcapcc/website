@@ -110,7 +110,8 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![Une page dédiée](/orga/im-orga-004.jpg)
+![Une mise en place simple](/orga/im-orga-004.jpg)  
+Crédit @floe_reporter @pocoloco.cc
 {{% /column %}}
 {{% /row %}}
 
