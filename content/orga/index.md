@@ -128,7 +128,7 @@ Crédit @floe_reporter @pocoloco.cc
 
 {{% row grid=1  %}}
 {{% column %}}
-![Une assistance technique pendant votre évènement](/orga/im-orga-005.JPG)
+![Une assistance technique pendant votre évènement](/orga/im-orga-005.png)
 {{% /column %}}
 
 {{% column %}}
