@@ -46,10 +46,6 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 
 {{% row  %}} <!-- ligne sans grille en fond -->
 {{% column %}}
-![Notre application](/accueil/im-acc-002.JPG)
-{{% /column %}}
-
-{{% column %}}
 ## <div style="text-align: left"> Notre application </div>
 
 <div style="text-align: justify"> Partant du constat que nous partons rarement plusieurs jours à l’aventure avec nos ordinateurs 16 pouces fixés au guidon, nous avons développé une application mobile rien que pour toi sur ton beau vélo. Pour celles et ceux qui sont chez eux, ils peuvent profiter de l’application web sur grand écran.
@@ -62,6 +58,11 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 
 
 {{% /column %}}
+
+{{% column %}}
+![Notre application](/accueil/im-acc-002.JPG)
+{{% /column %}}
+
 {{% /row %}}
 
 
