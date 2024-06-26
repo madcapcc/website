@@ -110,7 +110,8 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 {{% /column %}}
 
 {{% column %}}
-![Notre application](/accueil/im-acc-004.JPG)
+![Notre application](/accueil/im-acc-004.JPG)  
+Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 
 {{% /row %}}
