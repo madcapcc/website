@@ -176,7 +176,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
-![Suivre notre actus sur instagram](/accueil/im-acc-007.png)
+![Suivre notre actus sur instagram](/accueil/im-acc-007.jpeg)
 {{% /column %}}
 
 {{% column %}}
