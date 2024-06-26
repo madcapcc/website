@@ -6,8 +6,36 @@ draft = false
 
 
 {{% fullwidth %}}
-![Accueil](/orga/im-orga-000.JPG)
+![Accueil](/orga/im-orga-0000.JPG)
 {{% /fullwidth %}}
+
+
+
+
+
+
+
+<!-- ######  ligne Je suis organisateur GRILLE  ###### ? -->
+
+
+{{% row grid=1  %}}
+{{% column %}}
+![Je suis organisateur](/orga/im-orga-001.png)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Je suis organisateur </div>
+
+<div style="text-align: justify"> Si vous organisez un évènement à vélo et êtes en recherche d’une solution de suivi, vous êtes au bon endroit :) On essaie de vous donner ici les informations principales, mais rien ne vaut une prise de contact, vous pouvez nous écrire à hugo@madcap.cc pour qu’on étudie ensemble la meilleure façon de vous accompagner. </div>
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+
+
 
 
 
@@ -24,6 +52,19 @@ Si vous organisez un évènement à vélo et êtes en recherche d’une solution
 
 {{% /column %}}
 {{% /row %}}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {{% row  %}}
 {{% column %}}
