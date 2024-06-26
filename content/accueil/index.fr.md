@@ -1,5 +1,3 @@
-<!-- Header a mettre a chaque page -->
-
 +++
 title = 'Accueil'
 date = 2024-06-19T23:23:09+02:00
@@ -55,8 +53,8 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 
 &nbsp;
 
-[Télécharger l’app iOS](https://app.madcap.cc)  
-[Télécharger l’app Android](https://app.madcap.cc)
+[Télécharger l’app iOS](https://apps.apple.com/fr/app/madcap-cc/id6478298631)  
+[Télécharger l’app Android]([https://app.madcap.cc](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr))
 
 
 {{% /column %}}
