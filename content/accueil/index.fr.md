@@ -104,8 +104,8 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 &nbsp;
 
-<a href="/accueil/Infos boîtier GPS MadCap.pdf»> Je suis organisateur.ice  </a>   <!—- Mettre lien page orga --> 
-<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Mettre pdf participant -->
+<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis organisateur.ice  </a>  <!-- Mettre lien ou pdf -->
+<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Mettre lien ou pdf -->
 
 
 {{% /column %}}
