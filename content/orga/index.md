@@ -48,7 +48,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![Une page dédiée](/accueil/im-orga-002.png)
+![Une page dédiée](/orga/im-orga-002.png)
 {{% /column %}}
 {{% /row %}}
 
