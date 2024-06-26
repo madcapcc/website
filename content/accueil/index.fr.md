@@ -55,7 +55,7 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 
 &nbsp;
 
-[Télécharger l’app iOS](https://app.madcap.cc)  
+[Télécharger l’app iOS](https://app.madcap.cc)\ <!-- \ égale saut de ligne sans nouveau paragraphe -->
 [Télécharger l’app Android](https://app.madcap.cc)
 
 
