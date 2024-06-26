@@ -31,6 +31,9 @@
             "https://app.madcap.cc/checkin/qr_input?qr=" +
             found[1] +
             "#redirected";
+        } else {
+          console.log("No QR code found in path.");
+          document.location.href = "https://madcap.cc/#redirected";
         }
       } else {
         console.log("Already redirected, not good.");

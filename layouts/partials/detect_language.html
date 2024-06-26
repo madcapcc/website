@@ -1,0 +1,93 @@
+<script>
+    const supportedLangs = JSON.parse({{ site.Languages | jsonify }}).map(
+      (lang) => lang.Lang
+    );
+    window.supportedLangs = supportedLangs;
+</script>
+<script>
+  (function () {
+    const langKey = "preferredLang";
+    const sessionCheckKey = "hasCheckedLang";
+
+    const defaultLang = "en"; // Set default language here
+
+    function ensureSupportedLang(lang) {
+      return supportedLangs.includes(lang) ? lang : defaultLang;
+    }
+
+    // Get the saved language from localStorage or cookies
+    function getSavedLanguage() {
+      return localStorage.getItem(langKey) || getCookie(langKey);
+    }
+
+    // Set the language in localStorage and cookies
+    function setLanguage(lang) {
+      var lang = ensureSupportedLang(lang.split("-")[0].split("_")[0]);
+      console.log(`Setting language to ${lang}`);
+      localStorage.setItem(langKey, lang);
+      document.cookie = `${langKey}=${lang}; path=/; max-age=31536000`; // 1 year expiration
+    }
+
+    // Get the language from cookies
+    function getCookie(name) {
+      const value = `; ${document.cookie}`;
+      const parts = value.split(`; ${name}=`);
+      if (parts.length === 2) return parts.pop().split(";").shift();
+    }
+
+    // Get the browser's language
+    function getBrowserLanguage() {
+      return navigator.language || navigator.userLanguage;
+    }
+
+    // Redirect to the language-specific page
+    function redirectToLanguagePage(lang) {
+      // Redirect to the language-specific page
+      // First check if the language is already in the URL and remove it
+      // And then add the new language
+
+      if (window.location.pathname.startsWith(`/${lang}/`)) {
+        return;
+      }
+
+      var pathname = window.location.pathname;
+
+      for (const supportedLang of supportedLangs) {
+        if (pathname.startsWith(`/${supportedLang}/`)) {
+          pathname = pathname.replace(`/${supportedLang}/`, "/");
+        }
+      }
+
+      window.location.href = `/${lang}${pathname}${window.location.search}`;
+    }
+
+    function setAndRedirect(lang) {
+      setLanguage(lang);
+      redirectToLanguagePage(lang);
+    }
+
+    // Check and redirect logic
+    function checkAndRedirect() {
+      const savedLang = getSavedLanguage();
+      if (savedLang) {
+        redirectToLanguagePage(savedLang);
+      } else {
+        const browserLang = getBrowserLanguage().split("-")[0];
+        const lang = browserLang || defaultLang;
+        setAndRedirect(lang);
+      }
+    }
+
+    // Check session storage and perform redirect only once per session
+    function sessionStartRedirect() {
+      if (!sessionStorage.getItem(sessionCheckKey)) {
+        checkAndRedirect();
+        sessionStorage.setItem(sessionCheckKey, "true");
+      }
+    }
+
+    sessionStartRedirect();
+
+    window.setAndRedirect = setAndRedirect;
+  })();
+</script>

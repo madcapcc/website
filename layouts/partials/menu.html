@@ -65,7 +65,10 @@
               <ul class="dropdown-menu dropdown-menu-end">
                 {{ range $.page.AllTranslations }}
                   <li>
-                    <a href="{{ .RelPermalink }}" class="dropdown-item"
+                    <a
+                      {{/* href="#" */}}
+                      class="dropdown-item"
+                      onclick="setAndRedirect('{{ .Language.Lang }}')"
                       >{{ .Language.LanguageName }}</a
                     >
                   </li>
