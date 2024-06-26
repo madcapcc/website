@@ -104,14 +104,14 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 &nbsp;
 
-[Télécharger l’app iOS](https://apps.apple.com/fr/app/madcap-cc/id6478298631)  
-[Télécharger l’app Android](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr)
+<a href="/accueil/Infos boîtier GPS MadCap.pdf»> Je suis organisateur.ice  </a>   <!—- Mettre lien page orga --> 
+<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Mettre pdf participant -->
 
 
 {{% /column %}}
 
 {{% column %}}
-![Notre application](/accueil/im-acc-002.JPG)
+![Notre application](/accueil/im-acc-004.JPG)
 {{% /column %}}
 
 {{% /row %}}
@@ -121,7 +121,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 
 
-<!-- ######  ligne Pour qui ? noGRILL ###### ? -->
+<!-- ###### A VIRER ligne Pour qui ? noGRILL ###### ? -->
 
 {{% row  %}}
 {{% column %}}
