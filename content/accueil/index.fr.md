@@ -4,12 +4,18 @@ date = 2024-06-19T23:23:09+02:00
 draft = false
 +++
 
+
+<!-- Image Accueil -->
+
 {{% fullwidth %}}
 ![Accueil](/accueil/im-acc-000.png)
 {{% /fullwidth %}}
 
 
-<!-- texte en commentaire -->
+
+
+
+<!-- ligne MadCap ? -->
 
 {{% row grid=1  %}}
 {{% column %}}
@@ -30,6 +36,10 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 {{% /row %}}
 
 
+
+
+
+<!-- ligne Notre application -->
 
 {{% row  %}}
 {{% column %}}
