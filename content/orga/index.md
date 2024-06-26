@@ -118,19 +118,26 @@ Crédit @floe_reporter @pocoloco.cc
 
 
 
+
+
+
+
+
 <!-- ######  ligne Une assistance technique pendant votre évènement GRILLE  ###### ? -->
 
 
 {{% row grid=1  %}}
 {{% column %}}
-![Une assistance technique pendant votre évènement](/orga/im-orga-005.png)
+![Une assistance technique pendant votre évènement](/orga/im-orga-005.JPG)
 {{% /column %}}
 
 {{% column %}}
 ## <div style="text-align: left"> Une assistance technique pendant votre évènement </div>
 
 <div style="text-align: justify"> Nous restons actif et en contact avec vous durant tout l'événement afin de pallier autant que possible à toute situation, question ou modification. Nous apprécions tout particulièrement Whatsapp pour ce faire, qui permet d’échanger sur différents supports et médias. </div>
-{{% /column %}
+{{% /column %}}
 {{% /row %}}
+
+
 
 
