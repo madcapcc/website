@@ -53,6 +53,7 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 <div style="text-align: justify"> Partant du constat que nous partons rarement plusieurs jours à l’aventure avec nos ordinateurs 16 pouces fixés au guidon, nous avons développé une application mobile rien que pour toi sur ton beau vélo. Pour celles et ceux qui sont chez eux, ils peuvent profiter de l’application web sur grand écran.
 L’application est gratuite et accessible à toutes et à tous. </div>
 
+&nbsp;
 
 [Télécharger l’app iOS](https://app.madcap.cc)
 [Télécharger l’app Android](https://app.madcap.cc)
