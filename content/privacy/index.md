@@ -1,3 +1,7 @@
++++
+layout = 'legal'
++++
+
 # Politique de Confidentialité de MadCap
 {.padding-navbar}
 

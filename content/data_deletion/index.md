@@ -1,7 +1,10 @@
++++
+layout = 'legal'
++++
 # Procédure de suppression des données de l'application MadCap
 {.padding-navbar}
 
-En accord avec notre [politique de confidentialité](https://madcap.cc/privacy.html), vous pouvez sous condition nous demander la suppression des données des Services MadCap opérés par l'entreprise MadCap SA.
+En accord avec notre [politique de confidentialité](https://madcap.cc/privacy/index.html), vous pouvez sous condition nous demander la suppression des données des Services MadCap opérés par l'entreprise MadCap SA.
 
 Lorsque vous souhaitez supprimer vos données de notre système, veuillez suivre les étapes ci-dessous :
 
