@@ -83,8 +83,6 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 &nbsp;
 
-[Informations trackers](/accueil/Infos boîtier GPS MadCap.pdf)
-
 <a href="/accueil/Infos boîtier GPS MadCap.pdf"> Informations trackers </a> <!-- Téléchargement PDF -->
 
 {{% /column %}}
