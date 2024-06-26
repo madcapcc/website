@@ -52,6 +52,13 @@
 
       var pathname = window.location.pathname;
 
+      if (
+        pathname.startsWith("/data_deletion") ||
+        pathname.startsWith("/privacy")
+      ) {
+        return;
+      }
+
       for (const supportedLang of supportedLangs) {
         if (pathname.startsWith(`/${supportedLang}/`)) {
           pathname = pathname.replace(`/${supportedLang}/`, "/");
