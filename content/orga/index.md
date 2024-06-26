@@ -37,19 +37,18 @@ draft = false
 
 
 
+<!-- ######  ligne Une page dédiée noGRILLE  ###### ? -->
 
 
-
-{{% row grid=1  %}}
+{{% row  %}}
 {{% column %}}
-![MadCap ?](/orga/im-orga-001.png)
+## <div style="text-align: left"> Une page dédiée à votre événement </div>
+
+<div style="text-align: justify"> Nous vous créons une page dédiée, elle permet au monde entier d’accéder librement au live tracking de votre évènement ainsi qu’aux informations concernant la concernant. </div>
 {{% /column %}}
 
 {{% column %}}
-## Je suis organisateur
-
-Si vous organisez un évènement à vélo et êtes en recherche d’une solution de suivi, vous êtes au bon endroit :) On essaie de vous donner ici les informations principales, mais rien ne vaut une prise de contact, vous pouvez nous écrire à hugo@madcap.cc pour qu’on étudie ensemble la meilleure façon de vous accompagner.
-
+![Une page dédiée](/accueil/im-orga-002.png)
 {{% /column %}}
 {{% /row %}}
 
@@ -61,21 +60,18 @@ Si vous organisez un évènement à vélo et êtes en recherche d’une solution
 
 
 
-
-
-
-
+<!-- ###### DELETE ligne Une page dédiée à votre événement GRILLE  ###### ? -->
 
 {{% row  %}}
 {{% column %}}
-![Accueil](/orga/im-orga-002.png)
+![Orga](/orga/im-orga-002.png)
 {.no-radius}
 {{% /column %}}
 
 {{% column %}}
 ## Notre application
 
-Une page dédiée à votre événement dans l’application MadCap
+Une page dédiée à votre événement
 
 Nous vous créons une page dédiée, elle permet au monde entier d’accéder librement au live tracking de votre évènement ainsi qu’aux informations concernant la concernant.
 
