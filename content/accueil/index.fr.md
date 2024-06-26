@@ -87,3 +87,129 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 {{% /column %}}
 {{% /row %}}
+
+
+
+
+
+
+
+<!-- ######  Ligne Le boitier GPS (ou tracker) GRILLE ###### ? -->
+
+{{% row grid=1  %}} <!-- ligne avec grille en fond -->
+{{% column %}}
+![Le boitier GPS](/accueil/im-acc-003.JPG)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Le boitier GPS (ou tracker) </div>
+
+<div style="text-align: justify"> Il marche de pair avec l’application, c’est lui et non le téléphone qui enregistre ta position à intervalle régulier, puis transmet les informations à nos serveurs puis à l’application.
+Le système de suivi n’a donc aucunement besoin de ton téléphone pour fonctionner, il peut très bien être en mode avion ou éteint pour l’économie de batterie. L’application te sert à toi et tes proches à consulter les informations quand vous le souhaitez. </div>
+
+&nbsp;
+
+<a href=« /accueil/Infos boîtier GPS MadCap.pdf"> Informations trackers </a> <!-- Téléchargement PDF -->
+
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+
+
+
+
+<!-- ######  ligne Pour qui ? noGRILL ###### ? -->
+
+{{% row  %}} <!-- ligne sans grille en fond —>
+{{% column %}}
+## <div style=« text-align: left"> Pour qui ? </div>
+
+<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivi par leur proches. Pour celles et ceux au bureaux ou sur le canapé -plus communément appelés les Dotwatchers- souhaitant suivre l’évolution de leurs proches dans leur aventures. </div>
+
+&nbsp;
+
+<a href="/accueil/Infos boîtier GPS MadCap.pdf »> Je suis organisateur.ice  </a>   <!— Mettre le pif merged participant --> 
+<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Je suis participant.e  </a>  <!-- Téléchargement PDF --> 
+
+
+{{% /column %}}
+
+{{% column %}}
+![Pour qui ?](/accueil/im-acc-004.JPG)
+Aubin Luarent / @compassgo
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+
+<!-- ######  Fonctionnalitées principales GRILLE ###### ? -->
+
+{{% row grid=1  %}} <!-- ligne avec grille en fond -->
+{{% column %}}
+![Fonctionnalitées principales](/accueil/im-acc-005.JPG)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Fonctionnalitées principales </div>
+
+<div style="text-align: justify"> Créez votre liste de favoris, partage ton lien de suivi à tes proches, retrouve toi en un clique sur la carte, remonte dans le temps en un coup de pouce, passe d’un groupe à l’autre grâce au système de filtre en bas de l’écran, génère une vue 3D pour voir l’évolution en relief et bien plus encore (oui oui). </div>
+
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+
+
+<!-- ######  Qui sommes nous ? noGRILL ###### ? -->
+
+{{% row  %}} <!-- ligne sans grille en fond —>
+{{% column %}}
+## <div style=« text-align: left"> Qui sommes nous ? </div>
+
+<div style="text-align: justify"> Sam et Hugo :) On est à la fois participants (TCR, Three Peaks Bike Race, North Cap etc) et organisateurs d’évènements à deux roues (le Big fat Ride sur Paris), mais aussi développeurs et ingénieurs. On a développé le projet MadCap avec d’autres organisateurs d’ultra (course ou voyage), tous types de dotwatcheurs et de coureurs (l’avant comme l’arrière de la course) pour proposer un outil aux petits oignons pour tout le monde qui satisfasse enfin l'ensemble des utilisateurs, depuis leurs canapés ou derrière leurs  guidons.
+MadCap est notre création, nous en sommes les développeurs et allons la faire considérablement évoluer au fil du temps. Nous avons travaillé avec Victor Bouscavet, designer, ami, et ultra cycliste de renom pour designer ce beau projet. </div>
+
+{{% /column %}}
+
+{{% column %}}
+![Qui sommes nous ?](/accueil/im-acc-006.JPG)
+Aubin Luarent / @compassgo
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+
+
+
+<!-- ######  Suivre notre actu sur instagram GRILLE  ###### ? -->
+
+{{% row grid=1  %}} <!-- ligne avec grille en fond -->
+{{% column %}}
+![Suivre notre actus sur instagram](/accueil/im-acc-007.png)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Suivre notre actu sur instagram  </div>
+
+<div style="text-align: justify"> Nous sommes aussi joingnable ici pour toute demande </div>
+
+&nbsp;
+
+[Compte Insta](https://www.instagram.com/madcap.cc/)
+{{% /column %}}
+{{% /row %}}
+
+
