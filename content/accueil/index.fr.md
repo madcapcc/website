@@ -54,7 +54,7 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 &nbsp;
 
 [Télécharger l’app iOS](https://apps.apple.com/fr/app/madcap-cc/id6478298631)  
-[Télécharger l’app Android]([https://app.madcap.cc](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr)
+[Télécharger l’app iOS](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr)
 
 
 {{% /column %}}
