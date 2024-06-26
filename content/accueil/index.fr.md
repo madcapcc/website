@@ -152,7 +152,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 {{% /column %}}
 
 {{% column %}}
-![Notre application](/accueil/im-acc-006.JPG)
+![Qui sommes nous ?](/accueil/im-acc-006.jpg)
 {{% /column %}}
 {{% /row %}}
 
