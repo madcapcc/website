@@ -115,7 +115,6 @@ Les logos restent pour autant non cliquables et de taille raisonnable afin de ne
 
 
 <!-- ######  Ligne Notre offre et nos prix  ###### ? -->
-
 {{% row grid=1  %}}
 {{% column %}}
 ![Notre offre et nos prix](/orga/im-orga-007.png)
@@ -134,6 +133,21 @@ Pour plus d’information sur ce qui est inclus dans ce prix je vous invite à p
 {{% /column %}}
 {{% /row %}}
 
+
+
+
+<!-- ######  ligne Une retransmission sans faille noGRILLE  ###### ? -->
+{{% row  %}}
+{{% column %}}
+## <div style="text-align: left"> Une retransmission sans faille </div>
+
+<div style="text-align: justify"> Afin de garantir une retransmission sans faille tout du long de votre évènement, nous avons mis en place des systèmes permettant de s’adapter à tous les volumes d’audience. Pour ceci nous collaborons avec PG3, spécialistes de la haute disponibilité des serveurs. Nous garantissons ainsi la meilleure réactivité et disponibilité de l’application MadCap lors de vos évènements. </div>
+{{% /column %}}
+
+{{% column %}}
+![Une page dédiée](/orga/im-orga-008.png)
+{{% /column %}}
+{{% /row %}}
 
 
 
