@@ -42,7 +42,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![XXXXXX](/contact/im-cont-002.JPG)
+![Insta](/contact/im-cont-002.JPG)
 {{% /column %}}
 {{% /row %}}
 
@@ -53,13 +53,13 @@ draft = false
 <!-- ######  ligne Pigeon GRILLE  ###### ? -->
 {{% row grid=1  %}}
 {{% column %}}
-![Mail](/contact/im-cont-003.png)
+![Pigeon](/contact/im-cont-003.png)
 {{% /column %}}
 
 {{% column %}}
 ## <div style="text-align: left"> Pigeon voyageur </div>
 
-<div style="text-align: justify"> Et si vous êtes de la vieille école, vous pouvez aussi nous envoyer vos pigeons voyageurs à l'adresse suivante : MadCap, Samuel Charron, 9 rue Rémy Dumoncel, 75014 Paris </div>
+<div style="text-align: justify"> Si vous êtes plutôt de la vieille école, vous pouvez aussi nous envoyer vos pigeons voyageurs à l'adresse suivante : MadCap, Samuel Charron, 9 rue Rémy Dumoncel, 75014 Paris </div>
 {{% /column %}}
 {{% /row %}}
 
@@ -71,7 +71,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Autour d'un café </div>
 
-<div style="text-align: justify"> Et si vous êtes sur Paris, on peut aussi vous MadCapiser autour d'un café :) Envoyez nous simplement un petit message pour que l'on prenne un créneau ensemble. </div>
+<div style="text-align: justify"> Et si vous êtes sur Paris on peut aussi vous MadCapiser autour d'un café :) Envoyez nous simplement un petit message pour que l'on prenne un créneau ensemble. </div>
 {{% /column %}}
 
 {{% column %}}
