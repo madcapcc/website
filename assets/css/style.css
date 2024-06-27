@@ -53,6 +53,10 @@ h6 {
   object-fit: cover;
 }
 
+.full-width p {
+  margin-bottom: 0;
+}
+
 .column {
   box-sizing: border-box;
 }
