@@ -118,7 +118,7 @@ Les logos restent pour autant non cliquables et de taille raisonnable afin de ne
 
 {{% row grid=1  %}}
 {{% column %}}
-![Notre offre et nos prix](/accueil/im-orga-007.png)
+![Notre offre et nos prix](/orga/im-orga-007.png)
 {{% /column %}}
 
 {{% column %}}
@@ -129,7 +129,7 @@ Pour plus d’information sur ce qui est inclus dans ce prix je vous invite à p
 
 &nbsp;
 
-<a href="/orga/Prix et services MadCap.pdf"> Notre offre détaillée </a> <!-- Téléchargement PDF -->
+<a href="/orga/Prix et services MadCap.pdf"> Notre offre détaillée </a>
 
 {{% /column %}}
 {{% /row %}}
