@@ -75,7 +75,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![XXXXXX](/contact/im-cont-004.JPG)
+![Café](/contact/im-cont-004.JPG)
 {{% /column %}}
 {{% /row %}}
 
