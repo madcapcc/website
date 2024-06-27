@@ -15,16 +15,16 @@ draft = false
 
 
 
-<!-- ######  ligne Pigeon GRILLE  ###### ? -->
+<!-- ######  ligne Mail GRILLE  ###### ? -->
 {{% row grid=1  %}}
 {{% column %}}
 ![Pigeon](/contact/im-cont-003.png)
 {{% /column %}}
 
 {{% column %}}
-## <div style="text-align: left"> Pigeon voyageur </div>
+## <div style="text-align: left"> Mail </div>
 
-<div style="text-align: justify"> Si vous êtes plutôt de la vieille école, vous pouvez aussi nous envoyer vos pigeons voyageurs à l'adresse suivante : MadCap, Samuel Charron, 9 rue Rémy Dumoncel, 75014 Paris </div>
+<div style="text-align: justify"> Pour toute demande ou curiosité concernant MadCap, vous pouvez nous écrire par mail à hugo@madcap.cc </div>
 {{% /column %}}
 {{% /row %}}
 
