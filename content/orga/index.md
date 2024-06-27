@@ -6,7 +6,7 @@ draft = false
 
 
 {{% fullwidth %}}
-![Accueil](/orga/im-orga-0000.png)
+![Accueil](/orga/im-orga-000.png)
 {{% /fullwidth %}}
 
 
