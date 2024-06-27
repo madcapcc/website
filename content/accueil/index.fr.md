@@ -10,7 +10,7 @@ draft = false
 <!-- Image haute accueil  -->
 
 {{% fullwidth %}}
-![Accueil](/accueil/im-acc-000.png)
+![Accueil](/accueil/im-acc-000.jpg)
 {{% /fullwidth %}}
 
 
@@ -57,7 +57,7 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 {{% /column %}}
 
 {{% column %}}
-![Notre application](/accueil/im-acc-002.JPG)
+![Notre application](/accueil/im-acc-002.jpg)
 {{% /column %}}
 
 {{% /row %}}
@@ -70,7 +70,7 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
-![Le boitier GPS](/accueil/im-acc-003.JPG)
+![Le boitier GPS](/accueil/im-acc-003.jpg)
 {{% /column %}}
 
 {{% column %}}
@@ -107,7 +107,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 {{% /column %}}
 
 {{% column %}}
-![Notre application](/accueil/im-acc-004.JPG)  
+![Notre application](/accueil/im-acc-004.jpg)  
 Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 
@@ -149,23 +149,10 @@ Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 
 {{% column %}}
-![Qui sommes nous ?](/accueil/im-acc-006.JPG)  
+![Qui sommes nous ?](/accueil/im-acc-006.jpg)  
 Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 {{% /row %}}
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -174,7 +161,7 @@ Crédit Aubin LAURENT / @compassgo
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
-![Suivre notre actus sur instagram](/accueil/im-acc-007.jpeg)
+![Suivre notre actus sur instagram](/accueil/im-acc-007.png)
 {{% /column %}}
 
 {{% column %}}
