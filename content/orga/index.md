@@ -129,7 +129,7 @@ Pour plus d’information sur ce qui est inclus dans ce prix je vous invite à p
 
 &nbsp;
 
-<a href="/accueil/Prix-et-services-MadCap.pdf"> Notre offre détaillée </a>
+<a href="/orga/Prix-et-services-MadCap.pdf"> Notre offre détaillée </a>
 
 {{% /column %}}
 {{% /row %}}
