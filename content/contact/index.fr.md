@@ -31,25 +31,6 @@ draft = false
 
 
 
-
-<!-- ######  ligne Mail GRILLE  ###### ? -->
-{{% row grid=1  %}}
-{{% column %}}
-![Mail](/contact/im-cont-001.png)
-{{% /column %}}
-
-{{% column %}}
-## <div style="text-align: left"> Mail </div>
-
-<div style="text-align: justify"> Pour toute demande ou curiosité concernant MadCap, vous pouvez nous écrire par mail à hugo@madcap.cc </div>
-{{% /column %}}
-{{% /row %}}
-
-
-
-
-
-
 <!-- ######  ligne Insta noGRILLE  ###### ? -->
 {{% row  %}}
 {{% column %}}
