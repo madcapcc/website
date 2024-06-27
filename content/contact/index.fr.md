@@ -39,8 +39,10 @@ draft = false
 <div style="text-align: justify"> Si vous préférez un style moins formel nous sommes aussi joignable sur Insta. </div>
 {{% /column %}}
 
-[Notre compte Insta](https://www.instagram.com/madcap.cc/)
+&nbsp;
 
+
+[Notre compte Insta](https://www.instagram.com/madcap.cc/)
 {{% column %}}
 ![Insta](/contact/im-cont-002.png)
 {{% /column %}}
