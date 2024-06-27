@@ -152,7 +152,7 @@ Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 
 {{% column %}}
-![Qui sommes nous ?](/accueil/im-acc-006.jpg)  
+![Qui sommes nous ?](/accueil/im-acc-006.JPG)  
 Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 {{% /row %}}
