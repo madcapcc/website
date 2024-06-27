@@ -4,6 +4,8 @@ enableEmoji = true
 languageCode = 'fr-FR'
 sectionPagesMenu = 'main'
 title = 'MadCap'
+enableRobotsTXT = true
+
 
 [markup.goldmark.parser.attribute]
 block = true
