@@ -7,6 +7,9 @@
   padding-top: 56px;
 }
 
+html {
+  font-size: 130%;
+}
 
 h1,
 h2,
