@@ -187,7 +187,7 @@ Crédit Aubin LAURENT / @compassgo
 
 &nbsp;
 
-[Compte Insta](https://www.instagram.com/madcap.cc/)
+[Notre compte Insta](https://www.instagram.com/madcap.cc/)
 {{% /column %}}
 {{% /row %}}
 
