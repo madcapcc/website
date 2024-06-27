@@ -42,7 +42,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![Insta](/contact/im-cont-002.JPG)
+![Insta](/contact/im-cont-002.png)
 {{% /column %}}
 {{% /row %}}
 
@@ -75,7 +75,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![Café](/contact/im-cont-004.JPG)
+![Café](/contact/im-cont-004.png)
 {{% /column %}}
 {{% /row %}}
 
