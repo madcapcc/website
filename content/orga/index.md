@@ -113,3 +113,29 @@ Les logos restent pour autant non cliquables et de taille raisonnable afin de ne
 
 
 
+
+<!-- ######  Ligne Notre offre et nos prix  ###### ? -->
+
+{{% row grid=1  %}}
+{{% column %}}
+![Notre offre et nos prix](/accueil/im-orga-007.png)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Notre offre et nos prix </div>
+
+<div style="text-align: justify"> Nous essayons autant que possible de simplifier au maximum la facturation et la transparence avec un tarif unique à 27,50€ par tracker mis en circulation quelle que soit la durée de vos évènements entre 1 et 15 jours (pour le reste nous verrons au détail).
+Pour plus d’information sur ce qui est inclus dans ce prix je vous invite à prendre connaissance de notre offre détaillée. </div>
+
+&nbsp;
+
+<a href="/orga/Prix et services MadCap.pdf"> Notre offre détaillée </a> <!-- Téléchargement PDF -->
+
+{{% /column %}}
+{{% /row %}}
+
+
+
+
+
+
