@@ -4,7 +4,7 @@ date = 2024-06-19T16:23:12+02:00
 draft = false
 +++
 
-
+<!-- ######  image intro  ###### ? -->
 {{% fullwidth %}}
 ![Accueil](/orga/im-orga-000.png)
 {{% /fullwidth %}}
@@ -12,12 +12,7 @@ draft = false
 
 
 
-
-
-
 <!-- ######  ligne Je suis organisateur GRILLE  ###### ? -->
-
-
 {{% row grid=1  %}}
 {{% column %}}
 ![Je suis organisateur](/orga/im-orga-001.png)
@@ -33,13 +28,7 @@ draft = false
 
 
 
-
-
-
-
 <!-- ######  ligne Une page dédiée noGRILLE  ###### ? -->
-
-
 {{% row  %}}
 {{% column %}}
 ## <div style="text-align: left"> Une page dédiée à votre événement </div>
@@ -55,31 +44,7 @@ draft = false
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ######  ligne Mise à disposition d’une flotte de trackers GRILLE  ###### ? -->
-
-
 {{% row grid=1  %}}
 {{% column %}}
 ![Mise à disposition d’une flotte de trackers](/orga/im-orga-003.JPG)
@@ -95,13 +60,7 @@ draft = false
 
 
 
-
-
-
-
 <!-- ######  ligne Une mise en place assistée noGRILLE  ###### ? -->
-
-
 {{% row  %}}
 {{% column %}}
 ## <div style="text-align: left"> Une mise en place simple et assistée pour vous, vos partiacipants.es et votre public. </div>
@@ -118,14 +77,7 @@ Crédit @floe_reporter @pocoloco.cc
 
 
 
-
-
-
-
-
 <!-- ######  ligne Une assistance technique pendant votre évènement GRILLE  ###### ? -->
-
-
 {{% row grid=1  %}}
 {{% column %}}
 ![Une assistance technique pendant votre évènement](/orga/im-orga-005.png)
@@ -138,6 +90,22 @@ Crédit @floe_reporter @pocoloco.cc
 {{% /column %}}
 {{% /row %}}
 
+
+
+
+<!-- ######  ligne Affichage de vos sponsors noGRILLE  ###### ? -->
+{{% row  %}} 
+{{% column %}}
+## <div style="text-align: left"> Affichage de vos sponsors </div>
+
+<div style="text-align: justify"> Nous connaissons l’importance des sponsors et partenaires dans l'organisation de votre évènement. C’est pourquoi nous vous permettons de leur donner un peu plus de visibilité dans notre application afin de les remercier à juste titre d’avoir rendu cette fête possible. Tous vos sponsors et partenaires sont donc affichés en permanence en haut de la carte, dans un bandeau qui défile pour leur apporter une visibilité égale. N’hésitez pas à communiquer sur ce point avec eux, ils apprécient grandement toute visibilité supplémentaire, ce sera un bon points en plus pour votre dossier organisateur. 
+Les logos restent pour autant non cliquables et de taille raisonnable afin de ne pas perturber l’expérience utilisateurs par des clics non volontairs. </div>
+{{% /column %}}
+
+{{% column %}}
+![Affichage de vos sponsors](/orga/im-orga-006.JPG)
+{{% /column %}}
+{{% /row %}}
 
 
 
