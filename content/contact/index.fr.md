@@ -74,7 +74,7 @@ draft = false
 
 <div style="text-align: justify"> Et si vous êtes sur Paris on peut aussi vous MadCapiser autour d'un café :) Envoyez nous simplement un petit message pour que l'on prenne un créneau ensemble. </div>
 
-[On est par là]([https://madcap.cc/orga/](https://maps.app.goo.gl/fnuqZY5pXaZwtg7r8))
+[On est par là](https://maps.app.goo.gl/fnuqZY5pXaZwtg7r8)
 {{% /column %}}
 
 {{% column %}}
