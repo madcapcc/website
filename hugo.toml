@@ -27,6 +27,9 @@ pageRef = '/'
 [[languages.fr.menus.main]]
 name = 'Organisateurs'
 pageRef = '/orga/'
+[[languages.fr.menus.main]]
+name = 'Contacts'
+pageRef = '/contacts/'
 
 [languages.en]
 languageCode = 'en-GB'
