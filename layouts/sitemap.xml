@@ -4,7 +4,7 @@
   {{ range where .Pages "Sitemap.Disable" "ne" true }}
     {{- if .Permalink -}}
   <url>
-    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+    <loc>{{ .Permalink }}</loc>{{ if .IsTranslated }}{{ range .Translations }}
     <xhtml:link
                 rel="alternate"
                 hreflang="{{ .Language.LanguageCode }}"
