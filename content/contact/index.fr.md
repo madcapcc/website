@@ -9,26 +9,22 @@ draft = false
 
 <!-- Image haute accueil  -->
 {{% fullwidth %}}
-![Accueil](/contact/im-cont-000.png)
+![Contacts](/contact/im-cont-000.png)
 {{% /fullwidth %}}
 
 
 
 
-<!-- ######  ligne GRILLE  ###### ? -->
+<!-- ######  ligne Mail GRILLE  ###### ? -->
 {{% row grid=1  %}}
 {{% column %}}
-![XXXXXX](/contact/im-cont-001.png)
+![Mail](/contact/im-cont-001.png)
 {{% /column %}}
 
 {{% column %}}
-## <div style="text-align: left"> XXXXXX </div>
+## <div style="text-align: left"> Mail </div>
 
-<div style="text-align: justify"> XXXXXX </div>
-
-&nbsp;
-
-<a href="/contact/XXXXXX.pdf"> XXXXXX </a>
+<div style="text-align: justify"> Pour toute demande ou curiosité concernant MadCap, vous pouvez nous écrire par mail à hugo@madcap.cc </div>
 {{% /column %}}
 {{% /row %}}
 
@@ -37,31 +33,51 @@ draft = false
 
 
 
-<!-- ######  ligne noGRILLE  ###### ? -->
+<!-- ######  ligne Insta noGRILLE  ###### ? -->
 {{% row  %}}
 {{% column %}}
-## <div style="text-align: left"> XXXXXX </div>
+## <div style="text-align: left"> Instagram </div>
 
-<div style="text-align: justify"> XXXXXX </div>
-
-&nbsp;
-
-<a href="/contact/XXXXXX"> XXXXXX </a>
+<div style="text-align: justify"> Si vous préférez un style moins formel nous sommes aussi joignable sur Insta. </div>
 {{% /column %}}
 
 {{% column %}}
 ![XXXXXX](/contact/im-cont-002.JPG)
 {{% /column %}}
-
 {{% /row %}}
 
 
 
 
 
+<!-- ######  ligne Pigeon GRILLE  ###### ? -->
+{{% row grid=1  %}}
+{{% column %}}
+![Mail](/contact/im-cont-003.png)
+{{% /column %}}
+
+{{% column %}}
+## <div style="text-align: left"> Pigeon voyageur </div>
+
+<div style="text-align: justify"> Et si vous êtes de la vieille école, vous pouvez aussi nous envoyer vos pigeons voyageurs à l'adresse suivante : MadCap, Samuel Charron, 9 rue Rémy Dumoncel, 75014 Paris </div>
+{{% /column %}}
+{{% /row %}}
 
 
 
+
+<!-- ######  ligne Café noGRILLE  ###### ? -->
+{{% row  %}}
+{{% column %}}
+## <div style="text-align: left"> Autour d'un café </div>
+
+<div style="text-align: justify"> Et si vous êtes sur Paris, on peut aussi vous MadCapiser autour d'un café :) Envoyez nous simplement un petit message pour que l'on prenne un créneau ensemble. </div>
+{{% /column %}}
+
+{{% column %}}
+![XXXXXX](/contact/im-cont-004.JPG)
+{{% /column %}}
+{{% /row %}}
 
 
 
