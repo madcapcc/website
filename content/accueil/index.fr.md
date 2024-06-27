@@ -10,7 +10,7 @@ draft = false
 <!-- Image haute accueil  -->
 
 {{% fullwidth %}}
-![Accueil](/accueil/im-acc-0000.png)
+![Accueil](/accueil/im-acc-000.png)
 {{% /fullwidth %}}
 
 
