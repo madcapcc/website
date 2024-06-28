@@ -91,6 +91,12 @@ h6 {
   background-size: cover;
 }
 
+@media (min-width: 768px) {
+  .grid {
+    background-size: contain;
+  }
+}
+
 .row p:has(a) {
   text-align: center;
 }
