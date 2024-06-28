@@ -6,7 +6,7 @@ draft = false
 
 <!-- ######  image intro  ###### ? -->
 {{% fullwidth %}}
-![Accueil](/orga/im-orga-000.png)
+![Accueil](/orga/im-orga-000.jpg)
 {{% /fullwidth %}}
 
 
@@ -37,7 +37,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-![Une page dédiée](/orga/im-orga-002.png)
+![Une page dédiée](/orga/im-orga-002.jpg)
 {{% /column %}}
 {{% /row %}}
 
@@ -47,7 +47,7 @@ draft = false
 <!-- ######  ligne Mise à disposition d’une flotte de trackers GRILLE  ###### ? -->
 {{% row grid=1  %}}
 {{% column %}}
-![Mise à disposition d’une flotte de trackers](/orga/im-orga-003.JPG)
+![Mise à disposition d’une flotte de trackers](/orga/im-orga-003.jpg)
 {{% /column %}}
 
 {{% column %}}
@@ -103,7 +103,7 @@ Les logos restent pour autant non cliquables et de taille raisonnable afin de ne
 {{% /column %}}
 
 {{% column %}}
-![Affichage de vos sponsors](/orga/im-orga-006.JPG)
+![Affichage de vos sponsors](/orga/im-orga-006.png)
 {{% /column %}}
 {{% /row %}}
 
