@@ -53,7 +53,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Mise à disposition d’une flotte de trackers </div>
 
-<div style="text-align: justify"> De quelques uns à plusieurs centaines de participants.es, nous vous mettons à disposition notre flotte de tracker le temps de votre évènement. Tout est pris en charge et préparé en amont de votre évènement, depuis l’envoi des trackers jusqu’à leur retour en passant par leurs distribution et les instructions d’utilisation simplifiées au stricte minimum. </div>
+<div style="text-align: justify"> De quelques uns à plusieurs centaines de participants.es, nous vous mettons à disposition notre flotte de tracker le temps de votre évènement. Tout est pris en charge et préparé en amont de votre évènement, depuis l’envoi des trackers jusqu’à leur retour en passant par leur distribution et les instructions d’utilisation simplifiées au stricte minimum. </div>
 {{% /column %}}
 {{% /row %}}
 
