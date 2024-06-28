@@ -97,7 +97,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 {{% column %}}
 ## <div style="text-align: left"> Pour qui ? </div>
 
-<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivis par leur proches. Pour celles et ceux au bureaux ou sur le canapé -plus communément appelés les Dotwatchers- souhaitant suivre l’évolution de leurs proches dans leurs aventures. </div>
+<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivis par leurs proches. Pour celles et ceux au bureaux ou sur le canapé -plus communément appelés les Dotwatchers- souhaitant suivre l’évolution de leurs proches dans leurs aventures. </div>
 
 &nbsp;
 
