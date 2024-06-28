@@ -86,7 +86,7 @@ Crédit @floe_reporter @pocoloco.cc
 {{% column %}}
 ## <div style="text-align: left"> Une assistance technique pendant votre évènement </div>
 
-<div style="text-align: justify"> Nous restons actif et en contact avec vous durant tout l'événement afin de pallier autant que possible à toute situation, question ou modification. Nous apprécions tout particulièrement Whatsapp pour ce faire, qui permet d’échanger sur différents supports et médias. </div>
+<div style="text-align: justify"> Nous restons actifs et en contact avec vous durant tout l'événement afin de pallier autant que possible à toute situation, question ou modification. Nous apprécions tout particulièrement Whatsapp pour ce faire, qui permet d’échanger sur différents supports et médias où que vous soyez dans le monde. </div>
 {{% /column %}}
 {{% /row %}}
 
@@ -98,8 +98,8 @@ Crédit @floe_reporter @pocoloco.cc
 {{% column %}}
 ## <div style="text-align: left"> Affichage de vos sponsors </div>
 
-<div style="text-align: justify"> Nous connaissons l’importance des sponsors et partenaires dans l'organisation de votre évènement. C’est pourquoi nous vous permettons de leur donner un peu plus de visibilité dans notre application afin de les remercier à juste titre d’avoir rendu cette fête possible. Tous vos sponsors et partenaires sont donc affichés en permanence en haut de la carte, dans un bandeau qui défile pour leur apporter une visibilité égale. N’hésitez pas à communiquer sur ce point avec eux, ils apprécient grandement toute visibilité supplémentaire, ce sera un bon points en plus pour votre dossier organisateur. 
-Les logos restent pour autant non cliquables et de taille raisonnable afin de ne pas perturber l’expérience utilisateurs par des clics non volontairs. </div>
+<div style="text-align: justify"> Nous connaissons l’importance des sponsors et partenaires dans l'organisation de votre évènement. C’est pourquoi nous vous permettons de leur donner un peu plus de visibilité dans notre application afin de les remercier à juste titre d’avoir rendu cette fête possible. Tous vos sponsors et partenaires sont donc affichés en permanence en haut de la carte, dans un bandeau défilant pour leur apporter une visibilité égale. N’hésitez pas à communiquer sur ce point avec eux, ils apprécient grandement toute visibilité supplémentaire.
+Les logos restent pour autant non cliquables et de tailles raisonnables afin de ne pas perturber l’expérience utilisateurs par des clics non volontairs. </div>
 {{% /column %}}
 
 {{% column %}}
