@@ -9,7 +9,7 @@ draft = false
 
 <!-- Image haute accueil  -->
 {{% fullwidth %}}
-![Contact](/contact/im-cont-000.png)
+![Contact](/contact/im-cont-000.jpg)
 {{% /fullwidth %}}
 
 
