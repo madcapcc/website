@@ -33,7 +33,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Une page dédiée à votre événement </div>
 
-<div style="text-align: justify"> Nous vous créons une page dédiée, elle permet au monde entier d’accéder librement au live tracking de votre évènement ainsi qu’aux informations concernant la concernant. </div>
+<div style="text-align: justify"> Nous vous créons une page dédiée, elle permet au monde entier d’accéder librement au live tracking de votre évènement ainsi qu’aux informations la concernant. </div>
 {{% /column %}}
 
 {{% column %}}
