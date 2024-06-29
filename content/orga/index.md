@@ -123,8 +123,8 @@ Les logos restent pour autant non cliquables et de tailles raisonnables afin de 
 {{% column %}}
 ## <div style="text-align: left"> Notre offre et nos prix </div>
 
-<div style="text-align: justify"> Nous essayons autant que possible de simplifier au maximum la facturation et la transparence avec un tarif unique à 27,50€ par tracker mis en circulation quelle que soit la durée de vos évènements entre 1 et 15 jours (pour le reste nous verrons au détail).
-Pour plus d’information sur ce qui est inclus dans ce prix je vous invite à prendre connaissance de notre offre détaillée. </div>
+<div style="text-align: justify"> Nous avons simplifié au maximum la tarification en proposant un tarif unique de 27,50€ HT par tracker, et ceci quelle que soit la durée de vos évènements entre 1 et 15 jours (à voir ensemble pour les évènements plus long).
+Aucun frais caché, tout est détaillé dans notre offre ci-dessous : </div>
 
 &nbsp;
 
