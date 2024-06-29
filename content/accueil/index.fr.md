@@ -77,7 +77,7 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 ## <div style="text-align: left"> Le boitier GPS (ou tracker) </div>
 
 <div style="text-align: justify"> Il marche de pair avec l’application, c’est lui et non le téléphone qui enregistre ta position à intervalle régulier, puis transmet les informations à nos serveurs puis à l’application.
-Le système de suivi n’a donc aucunement besoin de ton téléphone pour fonctionner, il peut très bien être en mode avion ou éteint pour l’économie de batterie. L’application te sert à toi et tes proches à consulter les informations quand vous le souhaitez. </div>
+Le système de suivi n’a donc aucunement besoin de ton téléphone pour fonctionner, il peut très bien être en mode avion ou éteint pour l’économie de batterie. L’application sert à toi et tes proches à consulter les informations quand vous le souhaitez. </div>
 
 &nbsp;
 
