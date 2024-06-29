@@ -142,10 +142,12 @@ Aucun frais caché, tout est détaillé dans notre offre ci-dessous : </div>
 ## <div style="text-align: left"> Une retransmission sans faille </div>
 
 <div style="text-align: justify"> Afin de garantir une retransmission sans faille tout du long de votre évènement, nous avons mis en place des systèmes permettant de s’adapter à tous les volumes d’audience. Pour ceci nous collaborons avec PG3, spécialistes de la haute disponibilité des serveurs. Nous garantissons ainsi la meilleure réactivité et disponibilité de l’application MadCap lors de vos évènements. </div>
-{{% /column %}}
+&nbsp;
 
+[Vous avez dis PG3 ?](https://pg3.io/)
+{{% /column %}}
 {{% column %}}
-![Une page dédiée](/orga/im-orga-008.png)
+![Une retransmission sans faille](/orga/im-orga-008.png)
 {{% /column %}}
 {{% /row %}}
 
