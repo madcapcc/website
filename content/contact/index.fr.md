@@ -72,7 +72,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Autour d'un café </div>
 
-<div style="text-align: justify"> Et si vous êtes sur Paris on peut aussi vous MadCapiser autour d'un café :) Envoyez nous simplement un petit message pour que l'on prenne un créneau ensemble. </div>
+<div style="text-align: justify"> Et si vous êtes sur Paris on peut aussi vous MadCapiser autour d'un café :) Envoyez nous simplement un petit message pour que l'on organise ça ensemble. </div>
 
 [On est par là](https://maps.app.goo.gl/fnuqZY5pXaZwtg7r8)
 {{% /column %}}
