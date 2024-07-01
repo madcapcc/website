@@ -28,7 +28,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> MadCap ? </div>
 
-<div style="text-align: justify"> MadCap est une solution clé en main de suivi en temps réel pour tes aventures à vélo. Elle se compose d’une application et d’un boitier GPS marchant de pair.
+<div style="text-align: justify"> MadCap est une solution clé en main de suivi en temps réel pour tes aventures à vélo. Elle se compose d’une application et d’un boîtier GPS marchant de pair.
 Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en action : </div>
 
 [Accéder au Live Tracking](https://app.madcap.cc/)
@@ -74,10 +74,10 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 {{% /column %}}
 
 {{% column %}}
-## <div style="text-align: left"> Le boitier GPS (ou tracker) </div>
+## <div style="text-align: left"> Le boîtier GPS (ou tracker) </div>
 
 <div style="text-align: justify"> Il marche de pair avec l’application, c’est lui et non le téléphone qui enregistre ta position à intervalle régulier, puis transmet les informations à nos serveurs puis à l’application.
-Le système de suivi n’a donc aucunement besoin de ton téléphone pour fonctionner, il peut très bien être en mode avion ou éteint pour l’économie de batterie. L’application sert à toi et tes proches à consulter les informations quand vous le souhaitez. </div>
+Le système de suivi n’a donc aucunement besoin de ton téléphone pour fonctionner, il peut très bien être en mode avion ou éteint pour l’économie de batterie. L’application te sert à toi ainsi qu'à tes proches à consulter les informations quand vous le souhaitez. </div>
 
 &nbsp;
 
@@ -97,7 +97,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 {{% column %}}
 ## <div style="text-align: left"> Pour qui ? </div>
 
-<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivis par leurs proches. Pour celles et ceux au bureaux ou sur le canapé -plus communément appelés les Dotwatchers- souhaitant suivre l’évolution de leurs proches dans leurs aventures. </div>
+<div style="text-align: justify"> Pour les organisateurs d’aventures outdoor qui veulent un suivi temps réel de leurs participants.es. Pour les aventuriers.ères à vélo qui souhaitent être suivis par leurs proches. Pour celles et ceux au bureau ou sur le canapé - plus communément appelés les Dotwatchers - souhaitant suivre l’évolution des proches dans leurs aventures. </div>
 
 &nbsp;
 
@@ -126,9 +126,9 @@ Crédit Aubin LAURENT / @compassgo
 {{% /column %}}
 
 {{% column %}}
-## <div style="text-align: left"> Fonctionnalitées principales </div>
+## <div style="text-align: left"> Fonctionnalités principales </div>
 
-<div style="text-align: justify"> Créez votre liste de favoris, partage ton lien de suivi à tes proches, retrouve toi en un clique sur la carte, remonte dans le temps en un coup de pouce, passe d’un groupe à l’autre grâce au système de filtre en bas de l’écran, génère une vue 3D pour voir l’évolution en relief et bien plus encore (oui oui). </div>
+<div style="text-align: justify"> Créez votre liste de favoris, partage ton lien de suivi à tes proches, retrouve-toi en un clique sur la carte, remonte dans le temps en un coup de pouce, passe d’un groupe à l’autre grâce au système de filtre en bas de l’écran, génère une vue 3D pour voir l’évolution en relief et bien plus encore (oui oui). </div>
 
 {{% /column %}}
 {{% /row %}}
@@ -167,7 +167,7 @@ Crédit Aubin LAURENT / @compassgo
 {{% column %}}
 ## <div style="text-align: left"> Suivre notre actu sur instagram  </div>
 
-<div style="text-align: justify"> Nous publions notre actualité et les aventures à venir et nouvelles foncitonnalités sur notre compte insta. Tout comme par mail, nous y sommes aussi joignables pour toute demande ou remarque :) </div>
+<div style="text-align: justify"> Nous publions notre actualité et les aventures à venir et nouvelles fonctionnalités sur notre compte insta. Tout comme par mail, nous y sommes aussi joignables pour toute demande ou remarque :) </div>
 
 &nbsp;
 
