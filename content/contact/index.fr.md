@@ -36,7 +36,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Instagram </div>
 
-<div style="text-align: justify"> Si vous préférez un style moins formel nous sommes aussi joignable sur Insta. </div>
+<div style="text-align: justify"> Si vous préférez un style moins formel nous sommes aussi joignables sur Insta. </div>
 
 &nbsp;
 
