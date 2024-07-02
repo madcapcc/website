@@ -31,7 +31,7 @@ draft = false
 <div style="text-align: justify"> MadCap est une solution clé en main de suivi en temps réel pour tes aventures à vélo. Elle se compose d’une application et d’un boîtier GPS marchant de pair.
 Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en action : </div>
 
-[Accéder au Live Tracking](https://app.madcap.cc/){:target="_blank" }
+[Accéder au Live Tracking](https://app.madcap.cc/)
 {{% /column %}}
 {{% /row %}}
 
@@ -81,7 +81,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 
 &nbsp;
 
-<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Informations trackers </a> <!-- Téléchargement PDF -->
+<a href="/accueil/Infos boîtier GPS MadCap.pdf" target="_blank"> Informations trackers </a> <!-- Téléchargement PDF -->
 
 {{% /column %}}
 {{% /row %}}
