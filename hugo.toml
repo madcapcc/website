@@ -32,7 +32,7 @@ name = 'Contact'
 pageRef = '/contact/'
 [[languages.fr.menus.main]]
 name = 'Participants'
-pageRef = '/part/'
+pageRef = '/participants/'
 
 [languages.en]
 languageCode = 'en-GB'
@@ -49,4 +49,4 @@ name = 'Contact'
 pageRef = '/contact/'
 [[languages.en.menus.main]]
 name = 'Participants'
-pageRef = '/part/'
+pageRef = '/participants/'
