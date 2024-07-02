@@ -101,7 +101,7 @@ Therefore, the tracking system does not require your phone to function; it can o
 &nbsp;
 
 [For organizers](https://madcap.cc/orga/)  
-[For participants](https://madcap.cc/part/)
+[For participants](https://madcap.cc/participant/)
 
 {{% /column %}}
 
