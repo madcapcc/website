@@ -22,7 +22,7 @@ draft = false
 {{% column %}}
 ## <div style="text-align: left"> Une prise en main simplifiée pour nos aventuriers.ères</div>
 
-<div style="text-align: justify"> Tu fais parti des chanceuses et chanceux sur la ligne de départ ? Suis ces instructions simples pour récupérer ton tracker, l'allumer et le positionner correctement.  </div>
+<div style="text-align: justify"> Tu fais partie des chanceuses et chanceux sur la ligne de départ ? Suis ces instructions simples pour récupérer ton tracker, l'allumer et le positionner correctement.  </div>
 
 &nbsp;
 
