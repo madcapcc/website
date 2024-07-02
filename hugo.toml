@@ -24,15 +24,19 @@ weight = 1
 [[languages.fr.menus.main]]
 name = 'Accueil'
 pageRef = '/'
+order = 1
 [[languages.fr.menus.main]]
 name = 'Organisateurs'
 pageRef = '/orga/'
+order = 2
 [[languages.fr.menus.main]]
 name = 'Contact'
 pageRef = '/contact/'
+order = 3
 [[languages.fr.menus.main]]
 name = 'Participant'
 pageRef = '/participant/'
+order = 4
 
 [languages.en]
 languageCode = 'en-GB'
@@ -41,12 +45,16 @@ languageName = 'English'
 [[languages.en.menus.main]]
 name = 'Home'
 pageRef = '/'
+order = 1
 [[languages.en.menus.main]]
 name = 'Organisers'
 pageRef = '/orga/'
+order = 2
 [[languages.en.menus.main]]
 name = 'Contact'
 pageRef = '/contact/'
+order = 3
 [[languages.en.menus.main]]
 name = 'Participant'
 pageRef = '/participant/'
+order = 4
