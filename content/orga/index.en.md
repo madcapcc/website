@@ -54,6 +54,10 @@ draft = false
 ## <div style="text-align: left"> Providing a fleet of trackers </div>
 
 <div style="text-align: justify"> From a few to several hundred participants, we provide you with our fleet of trackers for the duration of your event. Everything is handled and prepared ahead of time, including sending out the trackers, their distribution, simplified usage instructions, and their return. </div>
+
+&nbsp;
+
+<a href="/orga/MadCap MadCap The GPS device Information.pdf" target="_blank"> To deploy our solution </a>
 {{% /column %}}
 {{% /row %}}
 
