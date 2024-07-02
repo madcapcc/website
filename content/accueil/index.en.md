@@ -80,7 +80,7 @@ Therefore, the tracking system does not require your phone to function; it can o
 
 &nbsp;
 
-<a href="/accueil/Infos boîtier GPS MadCap.pdf"> Trackers informations </a> <!-- Téléchargement PDF -->
+<a href="/accueil/Infos boîtier GPS MadCap.pdf" target="_blank"> Trackers informations </a> <!-- Téléchargement PDF -->
 
 {{% /column %}}
 {{% /row %}}
