@@ -69,7 +69,7 @@ draft = false
 
 &nbsp;
 
-<a href="/orga/MadCap Check list pour orga.pdf"> Comment déployer MadCap </a>
+<a href="/orga/MadCap Check list pour orga.pdf" target="_blank"> Comment déployer MadCap </a>
 
 {{% /column %}}
 
@@ -133,7 +133,7 @@ Aucun frais caché, tout est détaillé dans notre offre ci-dessous : </div>
 
 &nbsp;
 
-<a href="/orga/Prix-et-services-MadCap.pdf"> Notre offre détaillée </a>
+<a href="/orga/Prix-et-services-MadCap.pdf" target="_blank"> Notre offre détaillée </a>
 
 {{% /column %}}
 {{% /row %}}
