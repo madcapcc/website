@@ -57,7 +57,7 @@ draft = false
 
 &nbsp;
 
-<a href="/orga/MadCap Infos boîtier GPS.pdf" target="_blank"> Infos trackers </a>
+<a href="/orga/MadCap Infos boîtier GPS.pdf" target="_blank"> Informations trackers </a>
 {{% /column %}}
 {{% /row %}}
 
