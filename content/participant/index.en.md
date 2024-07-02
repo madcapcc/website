@@ -46,7 +46,7 @@ draft = false
 
 &nbsp;
 
-<a href="/participant/MadCap Information for participants.pdf" target="_blank"> Information for participants  </a>
+<a href="/participant/MadCap Information for participants.pdf" target="_blank"> Information for participants </a>
 
 {{% /column %}}
 
