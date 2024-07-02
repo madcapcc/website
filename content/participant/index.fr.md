@@ -46,7 +46,7 @@ draft = false
 
 &nbsp;
 
-<a href="/participant/MadCap infos à destination des participants.es.pdf" target="_blank"> Informations à destination des participants.es  </a>  <!-- Mettre lien ou pdf -->
+<a href="/participant/MadCap infos à destination des participants.es.pdf" target="_blank"> Informations pour les participants.es </a>  <!-- Mettre lien ou pdf -->
 
 {{% /column %}}
 
