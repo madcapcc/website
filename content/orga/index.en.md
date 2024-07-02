@@ -66,6 +66,10 @@ draft = false
 ## <div style="text-align: left"> Simple and assisted setup for you, your participants, and your audience. </div>
 
 <div style="text-align: justify"> We have designed a system that allows all users to easily navigate the application. It's straightforward to set up for you, easy to use for your participants, and accessible to your audience. </div>
+
+&nbsp;
+
+<a href="/orga/MadCap Checklist for organizers.pdf"> To deploy our solution </a>
 {{% /column %}}
 
 {{% column %}}
