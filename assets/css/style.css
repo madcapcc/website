@@ -112,6 +112,6 @@ h6 {
   display: inline-block;
 }
 
-.pointer: {
-  cursor: pointer;
+.pointer {
+    cursor: pointer;
 }
