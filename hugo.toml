@@ -30,6 +30,9 @@ pageRef = '/orga/'
 [[languages.fr.menus.main]]
 name = 'Contact'
 pageRef = '/contact/'
+[[languages.fr.menus.main]]
+name = 'Participants'
+pageRef = '/part/'
 
 [languages.en]
 languageCode = 'en-GB'
@@ -42,5 +45,8 @@ pageRef = '/'
 name = 'Organisers'
 pageRef = '/orga/'
 [[languages.en.menus.main]]
-name = 'contact'
+name = 'Contact'
 pageRef = '/contact/'
+[[languages.en.menus.main]]
+name = 'Participants'
+pageRef = '/part/'
