@@ -102,7 +102,7 @@ Le système de suivi n’a donc aucunement besoin de ton téléphone pour foncti
 &nbsp;
 
 [Je suis organisateur.ice](https://madcap.cc/orga/)  
-[Je suis participant.e](https://madcap.cc/part/)
+[Je suis participant.e](https://madcap.cc/participant/)
 
 {{% /column %}}
 
