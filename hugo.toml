@@ -1,11 +1,11 @@
 baseURL = 'https://madcap.cc/'
 defaultContentLanguage = 'fr'
+disableKinds = ["taxonomy", "term", "rss"]
 enableEmoji = true
+enableRobotsTXT = true
 languageCode = 'fr-FR'
 sectionPagesMenu = 'main'
 title = 'MadCap'
-enableRobotsTXT = true
-disableKinds = ["taxonomy", "term", "rss"]
 
 [markup.goldmark.parser.attribute]
 block = true
@@ -24,19 +24,19 @@ weight = 1
 [[languages.fr.menus.main]]
 name = 'Accueil'
 pageRef = '/'
-order = 1
+weight = 1
 [[languages.fr.menus.main]]
 name = 'Organisateurs'
 pageRef = '/orga/'
-order = 2
+weight = 2
 [[languages.fr.menus.main]]
 name = 'Contact'
 pageRef = '/contact/'
-order = 3
+weight = 3
 [[languages.fr.menus.main]]
 name = 'Participant'
 pageRef = '/participant/'
-order = 4
+weight = 4
 
 [languages.en]
 languageCode = 'en-GB'
@@ -45,16 +45,16 @@ languageName = 'English'
 [[languages.en.menus.main]]
 name = 'Home'
 pageRef = '/'
-order = 1
+weight = 1
 [[languages.en.menus.main]]
 name = 'Organisers'
 pageRef = '/orga/'
-order = 2
+weight = 2
 [[languages.en.menus.main]]
 name = 'Contact'
 pageRef = '/contact/'
-order = 3
+weight = 3
 [[languages.en.menus.main]]
 name = 'Participant'
 pageRef = '/participant/'
-order = 4
+weight = 4

@@ -85,7 +85,7 @@
 {{- define "partials/inline/menu/walk.html" }}
   {{- $homepage := .Page.Site.GetPage .Page.Site.Params.homepage }}
   {{- $page := .page }}
-  {{- range (sort .menuEntries "order") }}
+  {{- range (sort .menuEntries "Weight") }}
     {{- $attrs := dict "href" .URL "class" "nav-link" }}
     {{- if or ($page.IsMenuCurrent .Menu .)  (and $page.IsHome ($homepage.IsMenuCurrent .Menu .)) }}
       {{- $attrs = merge $attrs (dict "class" "nav-link active" "aria-current" "page") }}
