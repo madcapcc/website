@@ -9,14 +9,14 @@ draft = false
 
 <!-- ######  image intro  ###### ? -->
 {{% fullwidth %}}
-![Participants](/part/im-part-000.jpg)
+![Participants](/participant/im-part-000.jpg)
 {{% /fullwidth %}}
 
 <!-- ######  Une prise en main simplifiée  ###### ? -->
 
 {{% row grid=1  %}} <!-- ligne avec grille en fond -->
 {{% column %}}
-![Une prise en main simplifiée](/part/im-part-001.jpg)
+![Une prise en main simplifiée](/participant/im-part-001.jpg)
 {{% /column %}}
 
 {{% column %}}
@@ -26,7 +26,7 @@ draft = false
 
 &nbsp;
 
-<a href="/part/MadCap Prise en main rapide avant le départ.pdf"> Prise en main rapide avant le départ </a> <!-- Téléchargement PDF -->
+<a href="/participant/MadCap Prise en main rapide avant le départ.pdf"> Prise en main rapide avant le départ </a> <!-- Téléchargement PDF -->
 
 {{% /column %}}
 {{% /row %}}
@@ -46,12 +46,12 @@ draft = false
 
 &nbsp;
 
-<a href="/part/MadCap infos à destination des participants.es.pdf"> Informations à destination des participants.es  </a>  <!-- Mettre lien ou pdf -->
+<a href="/participant/MadCap infos à destination des participants.es.pdf"> Informations à destination des participants.es  </a>  <!-- Mettre lien ou pdf -->
 
 {{% /column %}}
 
 {{% column %}}
-![Informations à destination des participants.es](/part/im-part-002.jpg)
+![Informations à destination des participants.es](/participant/im-part-002.jpg)
 {{% /column %}}
 
 {{% /row %}}
