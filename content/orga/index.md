@@ -54,6 +54,10 @@ draft = false
 ## <div style="text-align: left"> Mise à disposition d’une flotte de trackers </div>
 
 <div style="text-align: justify"> De quelques uns à plusieurs centaines de participants.es, nous vous mettons à disposition notre flotte de tracker le temps de votre évènement. Tout est pris en charge et préparé en amont de votre événement, depuis l’envoi des trackers jusqu’à leur retour en passant par leur distribution et les instructions d’utilisation simplifiées au strict minimum. </div>
+
+&nbsp;
+
+<a href="/orga/MadCap Infos boîtier GPS.pdf" target="_blank"> Infos trackers </a>
 {{% /column %}}
 {{% /row %}}
 
