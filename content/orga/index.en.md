@@ -69,7 +69,7 @@ draft = false
 
 &nbsp;
 
-<a href="/orga/MadCap Checklist for organizers.pdf"> To deploy our solution </a>
+<a href="/orga/MadCap Checklist for organizers.pdf" target="_blank"> To deploy our solution </a>
 {{% /column %}}
 
 {{% column %}}
@@ -131,7 +131,7 @@ However, please note that the logos remain non-clickable and of reasonable size 
 
 &nbsp;
 
-<a href="/orga/Prix-et-services-MadCap.pdf"> Our detailed offer </a>
+<a href="/orga/Prix-et-services-MadCap.pdf" target="_blank"> Our detailed offer </a>
 
 {{% /column %}}
 {{% /row %}}
