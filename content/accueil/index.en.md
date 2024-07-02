@@ -101,7 +101,7 @@ Therefore, the tracking system does not require your phone to function; it can o
 &nbsp;
 
 [For organizers](https://madcap.cc/orga/)  
-<a href="/accueil/Je suis participant.pdf"> For participants </a>  <!-- Mettre lien ou pdf -->
+[For participants](https://madcap.cc/part/)
 
 {{% /column %}}
 
