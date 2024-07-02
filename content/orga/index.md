@@ -66,6 +66,11 @@ draft = false
 ## <div style="text-align: left"> Une mise en place simple et assistée pour vous, vos participants.es et votre public. </div>
 
 <div style="text-align: justify"> Nous avons conçu un système permettant à tous les utilisateurs de prendre en main l'application sans difficulté. Un système simple à mettre en place pour vous, simple à utiliser pour vos participants.es, et simple d'accès à votre public. </div>
+
+&nbsp;
+
+<a href="/orga/MadCap Check list pour orga.pdf"> Comment déployer MadCap </a>
+
 {{% /column %}}
 
 {{% column %}}
