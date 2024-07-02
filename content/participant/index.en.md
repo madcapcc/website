@@ -26,7 +26,7 @@ draft = false
 
 &nbsp;
 
-<a href="/participant/MadCap Quick start guide before departure.pdf"> Quick start guide before departure </a> <!-- Téléchargement PDF -->
+<a href="/participant/MadCap Quick start guide before departure.pdf"> Quick start guide before departure </a>
 
 {{% /column %}}
 {{% /row %}}
@@ -46,7 +46,7 @@ draft = false
 
 &nbsp;
 
-<a href="/participant/MadCap Information for participants.pdf"> Information for participants  </a>  <!-- Mettre lien ou pdf -->
+<a href="/participant/MadCap Information for participants.pdf"> Information for participants  </a>
 
 {{% /column %}}
 
