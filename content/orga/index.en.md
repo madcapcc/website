@@ -135,7 +135,7 @@ However, please note that the logos remain non-clickable and of reasonable size 
 
 &nbsp;
 
-<a href="/orga/Prix-et-services-MadCap.pdf" target="_blank"> Our detailed offer </a>
+<a href="/orga/MadCap Price and services.pdf" target="_blank"> Our detailed offer </a>
 
 {{% /column %}}
 {{% /row %}}
