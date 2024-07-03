@@ -47,7 +47,7 @@ name = 'Home'
 pageRef = '/'
 weight = 1
 [[languages.en.menus.main]]
-name = 'Organisers'
+name = 'Organizers'
 pageRef = '/orga/'
 weight = 2
 [[languages.en.menus.main]]
