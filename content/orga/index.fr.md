@@ -5,7 +5,7 @@ draft = false
 +++
 
 <!-- ######  image intro  ###### ? -->
-{{% fullwidth title="Page organisateurs Notre offre." legend="Crédit photo @victor_bouscavet"%}}
+{{% fullwidth title="Page organisateurs $ Notre offre." legend="Crédit photo @victor_bouscavet"%}}
 ![Accueil](/orga/im-orga-000.jpg)
 {{% /fullwidth %}}
 
