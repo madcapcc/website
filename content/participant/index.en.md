@@ -9,7 +9,7 @@ draft = false
 
 <!-- ######  image intro  ###### ? -->
 {{% fullwidth %}}
-![Participants](/participant/im-part-000en.jpg)
+![Participants](/participant/im-part-000.jpg)
 {{% /fullwidth %}}
 
 <!-- ######  Une prise en main simplifiée  ###### ? -->
