@@ -167,10 +167,9 @@ Crédit Aubin LAURENT / @compassgo
 ## <div style="text-align: left"> Suivre notre actu sur instagram  </div>
 
 <div style="text-align: justify"> Nous publions notre actualité et les aventures à venir et nouvelles fonctionnalités sur notre compte insta. Tout comme par mail, nous y sommes aussi joignables pour toute demande ou remarque :) </div>
-
 &nbsp;
 
-[Notre compte Insta](https://www.instagram.com/madcap.cc/)
+<a href="https://www.instagram.com/madcap.cc/" target="_blank"> Notre compte Insta </a>
 {{% /column %}}
 {{% /row %}}
 
