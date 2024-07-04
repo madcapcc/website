@@ -1,3 +1,18 @@
 <div class="col-12 full-width">
-  {{ .Inner }}
+  {{- if .Get "title" }}
+    <div
+      class="align-middle overlay d-flex align-items-center justify-content-center flex-column"
+    >
+      <img src="/logo.png" class="" alt="Logo MadCap" />
+      <h1>{{ .Get "title" }}</h1>
+    </div>
+  {{- end }}
+  {{- if .Get "legend" }}
+    <div class="legend">
+      <figcaption>{{ .Get "legend" }}</figcaption>
+    </div>
+  {{- end }}
+  <div class="bg">
+    {{ .Inner }}
+  </div>
 </div>
