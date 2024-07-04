@@ -29,8 +29,9 @@ draft = false
 ## <div style="text-align: left"> MadCap ? </div>
 
 <div style="text-align: justify"> MadCap is a turnkey real-time tracking solution for your cycling adventures. It consists of an application and a GPS device that work together. Rather than a long explanation, the easiest way to understand MadCap is to see it in action : </div>
+&nbsp;
 
-[Access Live Tracking](https://app.madcap.cc/)
+<a href="https://app.madcap.cc/" target="_blank"> Access Live Tracking </a>
 {{% /column %}}
 {{% /row %}}
 
