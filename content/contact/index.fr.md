@@ -8,7 +8,7 @@ draft = false
 
 
 <!-- Image haute accueil  -->
-{{% fullwidth title="Page contact Email Insta Café." legend="Crédit photo @hugoo.chevalier"%}}
+{{% fullwidth title="Contact page Email Insta Coffee." legend="Credit photo @hugoo.chevalier"%}}
 ![Contact](/contact/im-cont-000.jpg)
 {{% /fullwidth %}}
 
