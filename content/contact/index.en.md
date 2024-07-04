@@ -40,7 +40,7 @@ draft = false
 
 &nbsp;
 
-[Our Instagram account](https://www.instagram.com/madcap.cc/)
+<a href="https://www.instagram.com/madcap.cc/" target="_blank"> Our Insta </a>
 {{% /column %}}
 {{% column %}}
 ![Insta](/contact/im-cont-002.png)
