@@ -151,7 +151,7 @@ However, please note that the logos remain non-clickable and of reasonable size 
 <div style="text-align: justify"> To ensure flawless live streaming throughout your event, we have implemented systems that can adapt to all audience volumes. For this, we collaborate with PG3, specialists in high server availability. This partnership guarantees the highest responsiveness and availability of the MadCap application during your events. </div>
 &nbsp;
 
-[Did you say PG3?](https://pg3.io/)
+<a href="https://pg3.io/" target="_blank">Did you say PG3 ?</a>
 {{% /column %}}
 {{% column %}}
 ![Seamless live streaming](/orga/im-orga-008.png)
