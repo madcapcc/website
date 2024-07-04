@@ -74,7 +74,7 @@ draft = false
 
 <div style="text-align: justify"> And if you're in Paris, we can also MadCapize you over a coffee :) Just send us a message to arrange it together. </div>
 
-[We're here](https://maps.app.goo.gl/fnuqZY5pXaZwtg7r8)
+<a href="https://maps.app.goo.gl/fnuqZY5pXaZwtg7r8" target="_blank"> We're here </a>
 {{% /column %}}
 
 {{% column %}}
