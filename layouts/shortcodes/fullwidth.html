@@ -1,10 +1,13 @@
 <div class="col-12 full-width">
   {{- if .Get "title" }}
-    <div
-      class="align-middle overlay d-flex align-items-center justify-content-center flex-column"
-    >
+    {{- $first := strings.Chomp (collections.Index (strings.Split (.Get "title") "$") 0) }}
+    {{- $second := strings.Chomp (collections.Index (strings.Split (.Get "title") "$") 1) }}
+    <div class="overlay">
       <img src="/logo.png" class="" alt="Logo MadCap" />
-      <h1>{{ .Get "title" }}</h1>
+      <h1>
+        {{ $first }} <br />
+        {{ $second }}
+      </h1>
     </div>
   {{- end }}
   {{- if .Get "legend" }}
