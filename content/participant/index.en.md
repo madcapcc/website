@@ -8,7 +8,7 @@ draft = false
 
 
 <!-- ######  image intro  ###### ? -->
-{{% fullwidth %}}
+{{% fullwidth title="Participants page Hello dear riders." legend="Credit photo @hugoo.chevalier"%}}
 ![Participants](/participant/im-part-000.jpg)
 {{% /fullwidth %}}
 
