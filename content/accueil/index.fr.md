@@ -9,8 +9,8 @@ draft = false
 
 <!-- Image haute accueil  -->
 
-{{% fullwidth %}}
-![Accueil](/accueil/im-acc-000.jpg)
+{{% fullwidth title="Lively cycling tracking app" legend="Jean Michel Photographe"%}}
+![Accueil](/accueil/im-acc-0002.jpg)
 {{% /fullwidth %}}
 
 
