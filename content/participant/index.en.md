@@ -20,7 +20,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-## <div style="text-align: left"> Simplified handling for our adventurers. </div>
+## <div style="text-align: left"> Super simple </div>
 
 <div style="text-align: justify"> Are you one of the lucky ones at the starting line? Follow these simple instructions to retrieve your tracker, turn it on, and position it correctly.  </div>
 
@@ -40,9 +40,9 @@ draft = false
 
 {{% row  %}} <!-- ligne sans grille en fond -->
 {{% column %}}
-## <div style="text-align: left"> Information for participants </div>
+## <div style="text-align: left"> Detailed information for participants </div>
 
-<div style="text-align: justify"> And here's a summary of what you need to know before starting: how the deposit works, how to return the tracker, etc. </div>
+<div style="text-align: justify"> Getting set up is easy. During the adventure, just charge the GPS unit every 2-3 days. You can check the battery status in the app. Click below to find out how we handle lost or damaged GPS units. It is important that you read this before you start.  </div>
 
 &nbsp;
 
