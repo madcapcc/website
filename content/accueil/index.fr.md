@@ -54,13 +54,12 @@ L’application est gratuite et accessible à toutes et à tous. </div>
 <a href="https://apps.apple.com/fr/app/madcap-cc/id6478298631" target="_blank"> Télécharger l’app iOS </a>
 &nbsp;
 
-<a href="[https://app.madcap.cc/" target="_blank](https://play.google.com/store/apps/details?id=cc.madcap&hl=fr)"> Télécharger l’app Android </a>
+<a href="https://play.google.com/store/apps/details?id=cc.madcap&hl" target="_blank"> Télécharger l’app Android </a>
 {{% /column %}}
 
 {{% column %}}
 ![Notre application](/accueil/im-acc-002.jpg)
 {{% /column %}}
-
 {{% /row %}}
 
 
