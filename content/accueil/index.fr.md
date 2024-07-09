@@ -51,9 +51,7 @@ Mieux qu’un long discours, le plus simple est encore d’aller voir MadCap en 
 L’application est gratuite et accessible à toutes et à tous. </div>
 &nbsp;
 
-<a href="https://apps.apple.com/fr/app/madcap-cc/id6478298631" target="_blank"> Télécharger l’app iOS </a>
-&nbsp;
-
+<a href="https://apps.apple.com/fr/app/madcap-cc/id6478298631" target="_blank"> Télécharger l’app iOS </a>  
 <a href="https://play.google.com/store/apps/details?id=cc.madcap&hl" target="_blank"> Télécharger l’app Android </a>
 {{% /column %}}
 
