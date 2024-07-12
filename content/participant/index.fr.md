@@ -20,7 +20,7 @@ draft = false
 {{% /column %}}
 
 {{% column %}}
-## <div style="text-align: left"> Une prise en main simplifiée pour nos aventuriers.ères</div>
+## <div style="text-align: left"> Super simple </div>
 
 <div style="text-align: justify"> Tu fais partie des chanceuses et chanceux sur la ligne de départ ? Suis ces instructions simples pour récupérer ton tracker, l'allumer et le positionner correctement.  </div>
 
@@ -40,9 +40,9 @@ draft = false
 
 {{% row  %}} <!-- ligne sans grille en fond -->
 {{% column %}}
-## <div style="text-align: left"> Informations à destination des participants.es </div>
+## <div style="text-align: left"> Informations détaillées à destination des participants.es </div>
 
-<div style="text-align: justify"> Et voici un condensé de ce que vous devez savoir avant de prendre le départ : le fonctionnement de la caution, comment renvoyer le tracker etc </div>
+<div style="text-align: justify"> La prise en main est facile : Pendant l'aventure, il suffit de recharger le boîtier GPS tous les 2 à 3 jours. Vous pouvez vérifier l'état de la batterie dans l'application. Cliquez ci-dessous pour découvrir comment  nous gérer les boitiers GPS perdues ou endommagées. Il est important que vous lisiez ceci avant votre départ. </div>
 
 &nbsp;
 
