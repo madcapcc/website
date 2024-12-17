@@ -26,7 +26,7 @@ draft = false
 
 &nbsp;
 
-<a href="/participant/MadCap Prise en main rapide avant le départ.pdf" target="_blank"> Prise en main rapide avant le départ </a> <!-- Téléchargement PDF -->
+<a href="/participant/MadCap Prise en main rapide avant le départ.pdf" target="_blank"> Prise en main rapide avant le départ </a> <!-- Téléchargement PDF -->
 
 {{% /column %}}
 {{% /row %}}
@@ -46,7 +46,7 @@ draft = false
 
 &nbsp;
 
-<a href="/participant/MadCap infos à destination des participants.es.pdf" target="_blank"> Informations pour les participants.es </a>  <!-- Mettre lien ou pdf -->
+<a href="/participant/MadCap infos à destination des participants.es.pdf" target="_blank"> Informations pour les participants.es </a>  <!-- Mettre lien ou pdf -->
 
 {{% /column %}}
 
